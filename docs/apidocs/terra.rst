@@ -7,30 +7,31 @@ Qiskit Terra API Reference
 .. toctree::
    :maxdepth: 1
 
+   algorithms
+   assembler
    circuit
    circuit_library
-   compiler
-   execute
-   visualization
    classicalfunction
+   compiler
    converters
-   assembler
    dagcircuit
+   execute
    extensions
-   providers_basicaer
-   providers
-   providers_fake_provider
-   providers_models
-   pulse
-   scheduler
-   synthesis
-   primitives
+   opflow
    qasm3
    qasm
    qobj
    qpy
    quantum_info
    result
+   primitives
+   providers
+   providers_basicaer
+   providers_fake_provider
+   providers_models
+   pulse
+   scheduler
+   synthesis
    tools
    tools_jupyter
    transpiler
@@ -41,5 +42,5 @@ Qiskit Terra API Reference
    transpiler_builtin_plugins
    utils
    utils_mitigation
-   opflow
-   algorithms
+   visualization
+   
